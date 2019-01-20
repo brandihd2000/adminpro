@@ -1,4 +1,6 @@
 import { Routes, RouterModule } from '@angular/router';
+
+// pages component
 import { PagesComponent } from "./pages.component";
 import { DashboardComponent } from "./dashboard/dashboard.component";
 import { ProgressComponent } from "./progress/progress.component";
